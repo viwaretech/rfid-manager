@@ -1,4 +1,4 @@
-# 📱 RFIDManager
+# 📱 rfid-manager
 
 ![ESP8266](https://img.shields.io/badge/ESP8266-Device-E7352C?style=plastic&logo=espressif&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-Connected-4CAF50?style=plastic&logo=internetofthings&logoColor=white)
@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-GPLv3-red)
 
 
-> **RFIDManager** is an Android-based application designed to manage RFID cards using an ESP8266 IoT device.  
+> **rfid-manager** is an Android-based application designed to manage RFID cards using an ESP8266 IoT device.  
 The system supports reading RFID card data and writing new data to RFID cards through communication between the Android app, server, and ESP8266 device.
 
 This project is suitable for **RFID access control systems, asset identification, inventory management, and IoT-based RFID automation**.
@@ -123,7 +123,7 @@ The Android application requests card data from the server and sends it to the E
 | RFID Card | Card containing RFID chip |
 | RFID Reader | RFID module connected to ESP8266 |
 | ESP8266 | IoT microcontroller handling RFID communication |
-| Android Device | Smartphone running RFIDManager |
+| Android Device | Smartphone running rfid-manager |
 | Server | Backend API for card data management |
 
 ---
@@ -143,10 +143,10 @@ The Android application requests card data from the server and sends it to the E
 
 ## 📥 Download
 
-- **RFIDManager App (Latest)**  
-   ![Release](https://img.shields.io/github/v/release/viwaretech/RFIDManager?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/RFIDManager?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260114-E7352C)<br>
-  ➡️ [Release Page](https://github.com/viwaretech/RFIDManager/releases/latest)  
-   ➡️ [Download](https://github.com/viwaretech/RFIDMAnager/releases/latest/download/RFIDManager.zip)
+- **rfid-manager App (Latest)**  
+   ![Release](https://img.shields.io/github/v/release/viwaretech/rfid-manager?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/rfid-manager?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260114-E7352C)<br>
+  ➡️ [Release Page](https://github.com/viwaretech/rfid-manager/releases/latest)  
+   ➡️ [Download](https://github.com/viwaretech/rfid-manager/releases/latest/download/rfid-manager.zip)
 
 ---
 
