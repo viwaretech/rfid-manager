@@ -1,4 +1,4 @@
-# 📱 rfid-manager
+# 📱 RFIDManager
 
 ![ESP8266](https://img.shields.io/badge/ESP8266-Device-E7352C?style=plastic&logo=espressif&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-Connected-4CAF50?style=plastic&logo=internetofthings&logoColor=white)
