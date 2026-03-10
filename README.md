@@ -143,7 +143,7 @@ The Android application requests card data from the server and sends it to the E
 
 ## 📥 Download
 
-- **rfid-manager App (Latest)**  
+- **RFIDManager App (Latest)**  
    ![Release](https://img.shields.io/github/v/release/viwaretech/rfid-manager?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/rfid-manager?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260114-E7352C)<br>
   ➡️ [Release Page](https://github.com/viwaretech/rfid-manager/releases/latest)  
    ➡️ [Download](https://github.com/viwaretech/rfid-manager/releases/latest/download/rfid-manager.zip)
